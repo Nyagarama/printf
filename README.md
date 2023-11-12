@@ -10,3 +10,6 @@ _ _printf_ is a variadiac function that imitates the _printf_ function. It recei
 
 ***format** is a pointer to the string printed while the format tag syntax is `%specifier`
 
+### FORMAT SPECIFIER
+
+Format specifier tell the compiler the type of data given _(input)_ and the type of data to be printed on the screen _(output)_. 
