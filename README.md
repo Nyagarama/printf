@@ -15,7 +15,7 @@ _ _printf_ is a variadiac function that imitates the _printf_ function. It recei
 [Format specifier](https://www.simplilearn.com/tutorials/c-tutorial/format-specifiers-in-c) tell the compiler the type of data given _(input)_ and the type of data to be printed on the screen _(output)_.
 
 |Specifier | Output |
-| :---: | :---: |
+| :---: | :--- |
 | `%d or %i` | Decimal or Signed integer |
 | `%c` | Signed character |
 | `%f` | Signed float |
