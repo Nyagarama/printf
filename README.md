@@ -33,4 +33,6 @@ _ _printf_ is a variadiac function that imitates the _printf_ function. It recei
 | `%b` | Signed binary |
 | `%r` | Reverse string of characters |
 | `%R` | ROT13 translation of string |
- 
+
+#### Authors
+[Chebet Ronoh](https://github.com/cynraw) and [Christopher Nyagarama](https://github.com/Nyagarama)
