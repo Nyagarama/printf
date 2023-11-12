@@ -4,5 +4,6 @@ The essence of this project is to create a custom version of [printf](https://ma
 
 ## _printf FUNCTION
 
-_ _printf_ is a variadiac function that imitates _printf_ function.
+_ _printf_ is a variadiac function that imitates the _printf_ function. It receives **n arguments** that replace **n tags.** It has the following prototype:
 
+int _printf(const char *format, ...);
