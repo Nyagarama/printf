@@ -12,4 +12,25 @@ _ _printf_ is a variadiac function that imitates the _printf_ function. It recei
 
 ### FORMAT SPECIFIER
 
-Format specifier tell the compiler the type of data given _(input)_ and the type of data to be printed on the screen _(output)_. 
+[Format specifier](https://www.simplilearn.com/tutorials/c-tutorial/format-specifiers-in-c) tell the compiler the type of data given _(input)_ and the type of data to be printed on the screen _(output)_.
+
+|Specifier | Output |
+| :---: | :---: |
+| `%d or %i` | Decimal or Signed integer |
+| `%c` | Signed character |
+| `%f` | Signed float |
+| `%e` | Float-point number |
+| `%s` | String or sequence of character |
+| `%S` | String with special chars replaced by their ASCII value |
+| `%lf` | double |
+| `%Lf` | Long double |
+| `%o` | Octal integer |
+| `%u` | Short unsigned integer |
+| `%ld` | Long decimal integer |
+| `%x` | Hexadecimal integer |
+| `%X` | Unsigned hexadecimal integer (Uppercase) |
+| `%p` | Print memory address in the hexadecimal form |
+| `%b` | Signed binary |
+| `%r` | Reverse string of characters |
+| `%R` | ROT13 translation of string |
+ 
