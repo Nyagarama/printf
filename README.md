@@ -8,4 +8,5 @@ _ _printf_ is a variadiac function that imitates the _printf_ function. It recei
 
 `int _printf(const char *format, ...);`
 
-***format** is a pointer to the string printed. 
+***format** is a pointer to the string printed while the format tag syntax is `%specifier`
+
